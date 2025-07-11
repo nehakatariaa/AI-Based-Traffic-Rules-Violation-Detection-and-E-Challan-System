@@ -46,5 +46,4 @@ CREATE TABLE violations (
 3. Integration with government APIs or SMS alerts
 
 👩‍💻 Author
-
 Neha Kataria
